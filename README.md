@@ -1,5 +1,11 @@
+[![DOI](https://zenodo.org/badge/857427966.svg)](https://zenodo.org/doi/10.5281/zenodo.13768181)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 # NTL-TCN
-The paper associated with this repository is currently submitted to __JGR: Machine Learning and Computation__ as: __CITATION__
+The paper associated with this repository is currently submitted to __JGR: Machine Learning and Computation__. A preprint is availiable in __ESS OPEN ARCHIVE__ as:
+
+_Kaan Cökerim, Henryk Dobslaw, Kyriakos Balidakis, et al. Modeling Non-Tidal Surface Fluid Loading Signatures in Global GNSS Displacements with a Deep Learning Framework. ESS Open Archive . September 15, 2024.
+DOI: 10.22541/essoar.172641527.77043060/v1_
 
 # Abstract
 "TEXT"
