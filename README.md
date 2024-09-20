@@ -15,7 +15,7 @@ This repository contains a minimal example with data to reproduce the results of
 - `.pth`-Files containing the trained model
 - codes to evaluate the model with the NTL input data and to produce time series figures:
   - `plot_predictions_from_hdf5.ipynb`: notebook to plot time series of targets, predictions, and NTL input data
-  - `predict.py`: script to predict time series at a selected station
+  - `predict_eval.ipynb`: notebook to predict time series at a selected station
   - `NGL_download.py`: script to scrape [NGL](http://geodesy.unr.edu/index.php) for time series (run at your own risk; may cause heavy download traffic)
   - `decompse.py`: script to decompose [NGL](http://geodesy.unr.edu/index.php) time series into _a priori_ non-tectonic time series targets using [GrAtSiD](https://github.com/TectonicGeodesy-RUB/Gratsid)
 

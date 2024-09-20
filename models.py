@@ -6,8 +6,6 @@
 # DESCRIPTION
 #
 # -------------------------------------------------------
-import logging
-
 import torch
 from pytorch_tcn import TCN
 import numpy as np
@@ -114,8 +112,5 @@ class ModTCN(torch.nn.Module):
 
         # reshape
         x = x.view(*x.size(), 1)
-
-        # logging.info(f"\tIn Model: input size {in_size},
-        #            "output size {x.size()})
 
         return x
