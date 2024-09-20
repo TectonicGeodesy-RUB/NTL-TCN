@@ -22,6 +22,8 @@ This repository contains a minimal example with data to reproduce the results of
 - to compile the __ESMGFZ__ loading data first download the netCDF files and interpolated the respective time series at the station locations using their instruction and codes in the [ESMGFZ repository](http://esmdata.gfz-potsdam.de:8080/repository/entry/show?entryid=97d15ffe-3b5d-49dc-ba6c-3011851af1de). 
   - `prep_ntl.ipynb` agglomerates and segments the NTL data obtained from the ESMGFZ script for easier processing at scale
   - use `surfaceloading.py` to further process the ESMGFZ data and obtain time series like the examples in in `data/ESMGFZ`
+- the IGS repro3 time series can be freely downloaded from the __IGN__ repository from ther FTP server under `ftp://igs-rf.ign.fr/pub/repro3/`. Use an FTP accessing tool of your choice to access and download the data.
+- OS LISFLOOD data is currently under review, but we provide for selected stations time series in `data/OS_LISFLOOD`
 
 # What will come in future releases
 - work directory set up script to prepare all folders for data retrival and processing. As of now, the user has to go through the code and create the folders on the fly
