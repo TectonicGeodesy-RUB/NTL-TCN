@@ -2,9 +2,9 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-red.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 # NTL-TCN
-The paper associated with this repository is currently under review with preprint availiable on __ESS OPEN ARCHIVE__:
+The paper associated with this repository is published in __Earth, Planets and Space__:
 
-> Kaan Çökerim, Henryk Dobslaw, Kyriakos Balidakis, Laura Jensen, Carlos Peña and Jonathan Bedford. (2024) _Modeling Non-Tidal Surface Fluid Loading Signatures in Global GNSS Displacements with a Deep Learning Framework_. ESS Open Archive. [https://doi.org/10.22541/essoar.172641527.77043060/v1](https://doi.org/10.22541/essoar.172641527.77043060/v1)
+> Kaan Çökerim, Henryk Dobslaw, Kyriakos Balidakis, Laura Jensen, Carlos Peña and Jonathan Bedford. (2026) _Global data-driven predictions of seasonal non-tectonic signals in vertical GNSS displacement time series from non-tidal surface loading data_. Earth, Planets and Space. [https://doi.org/10.1186/s40623-026-02385-z](https://doi.org/10.1186/s40623-026-02385-z)
 
 # What this repository contains
 This repository contains a minimal example with data to reproduce the results of the paper. In particular, it contains: 
